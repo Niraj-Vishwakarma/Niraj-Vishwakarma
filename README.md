@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I have currently taken 100DaysOfCode challenge - 9/100.
+- 🌱 I’m currently learning Data Structure and Algorithm.
+- 💬 Feel free to fork any one of my repository and contribute.
+- ⚡ If you like ✨ _Star_ ✨ the repository and ✨ _follow_ ✨ for more.
+
+---
+
+
 <!--
 **Niraj-Vishwakarma/Niraj-Vishwakarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

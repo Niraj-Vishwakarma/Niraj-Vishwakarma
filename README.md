@@ -3,8 +3,12 @@
 - 🔭 I have currently taken 100DaysOfCode challenge - 9/100.
 - 🌱 I’m currently learning Data Structure and Algorithm.
 - 💬 Feel free to fork any one of my repository and contribute.
-- ⚡ If you like ✨ _Star_ ✨ the repository and ✨ _follow_ ✨ for more.
-
+- ⚡ If you like ✨ _Star_ ✨ the repository.
+- 📫 How to reach me:
+     
+     E-mail [ programmer01njv@gmail.com ]
+     
+     LinkedIn [ www.linkedin.com/in/nirajvishwakarma ]
 ---
 
 

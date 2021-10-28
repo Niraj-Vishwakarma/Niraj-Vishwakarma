@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I have currently taken 100DaysOfCode challenge - 9/100.
+- 🔭 I have currently taken 100DaysOfCode challenge.
 - 🌱 I’m currently learning Data Structure and Algorithm.
 - 💬 Feel free to fork any one of my repository and contribute.
 - ⚡ If you like ✨ _Star_ ✨ the repository.
